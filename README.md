@@ -15,5 +15,4 @@ Clone this project
     
 ## Demo
 
-Insert gif or link to demo
-
+![Demo](demo.gif)
